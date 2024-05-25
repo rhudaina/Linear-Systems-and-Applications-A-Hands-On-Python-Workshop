@@ -7,7 +7,7 @@
 > Lecture 2. Control Structures and Visualization
 
 #### Day 2. Introduction to Numerical Methods for Linear Systems and Applications
-> Lecture 3. Direct Methods (Matrix Factorization) for Dense Systems
+> Lecture 3. Direct Methods for Dense Systems
 
 > Lecture 4. Iterative Methods for Sparse Systems
 
