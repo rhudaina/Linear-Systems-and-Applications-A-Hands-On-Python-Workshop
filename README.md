@@ -3,11 +3,12 @@
 | -------- | ------- | 
 | **Day 1** | **Python Basics and Programming Fundamentals** | 
 |          | Lecture 1. Introduction to Python | 
+| --------  | ------- | 
 | **Day 1** | **Python Basics and Programming Fundamentals** | 
-|          | Lecture 2. Control Structures and Visualization | 
-| -------- | ------- | 
-| **Day 2**| **Introduction to Numerical Methods for Linear Systems and Applications** | 
-| -------- | ------- | 
+|           | Lecture 2. Control Structures and Visualization | 
+| --------  | ------- | 
+| **Day 2** | **Introduction to Numerical Methods for Linear Systems and Applications** | 
+| --------  | ------- | 
 | **Day 3**    | **Introduction to Dimensionality Reduction in Data Science** |
 | -------- | ------- |
 
