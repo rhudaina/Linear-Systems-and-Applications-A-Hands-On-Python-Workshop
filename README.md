@@ -1,11 +1,11 @@
 # Linear Systems and Applications: A Hands-On Python Workshop
 
-**| Day 1    | Python Basics and Programming Fundamentals |**
+| **Day 1 **   | Python Basics and Programming Fundamentals |
 |          | fdasfsda   |
 | -------- | ------- |
-**| Day 2    | Introduction to Numerical Methods for Linear Systems and Applications |**
+| **Day 2**    | Introduction to Numerical Methods for Linear Systems and Applications |
 | -------- | ------- |
-**| Day 3    | Introduction to Dimensionality Reduction in Data Science |**
+| **Day 3**    | Introduction to Dimensionality Reduction in Data Science |
 | -------- | ------- |
 
 
