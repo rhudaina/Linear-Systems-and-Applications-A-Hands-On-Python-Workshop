@@ -1,7 +1,7 @@
 # Linear Systems and Applications: A Hands-On Python Workshop
 
 | -------- | ------- |
-| **Day 1**| **Python Basics and Programming Fundamentals** |
+| **Day 1** | **Python Basics and Programming Fundamentals** |
 |          | Lecture 1. Introduction to Python |
 |          | Lecture 2. Control Structures and Visualization |
 | -------- | ------- |
