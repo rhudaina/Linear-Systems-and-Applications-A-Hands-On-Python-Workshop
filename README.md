@@ -1,5 +1,6 @@
 # Linear Systems and Applications: A Hands-On Python Workshop
 
+| -------- | ------- |
 | **Day 1 **   | Python Basics and Programming Fundamentals |
 |          | fdasfsda   |
 | -------- | ------- |
