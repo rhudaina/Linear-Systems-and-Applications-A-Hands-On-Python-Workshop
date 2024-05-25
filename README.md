@@ -14,7 +14,7 @@
 - Lecture 6. SVD Applications: Principal Component Analysis and Image Compression
 
 
-Submission Portal: https://forms.gle/CdHdZc2u51KZ8jER8
+Submission Portal for Hands-On Activities: https://forms.gle/CdHdZc2u51KZ8jER8
 
 Survey Form - CSRC Skill Sprint Workshop: https://forms.gle/Tope6i5P1AC5Gfuw7
 
