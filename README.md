@@ -2,7 +2,7 @@
 
 |          |    |
 | -------- | ------- |
-| **Day 1 **   | Python Basics and Programming Fundamentals |
+| **Day 1**   | Python Basics and Programming Fundamentals |
 | -------- | ------- |
 | **Day 2**    | Introduction to Numerical Methods for Linear Systems and Applications |
 | -------- | ------- |
