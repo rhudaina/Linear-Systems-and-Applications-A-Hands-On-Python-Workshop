@@ -3,6 +3,7 @@
 | -------- | ------- | 
 | **Day 1** | **Python Basics and Programming Fundamentals** | 
 |          | Lecture 1. Introduction to Python | 
+|          | Lecture 1. Introduction to Python | 
 | --------  | ------- | 
 | **Day 1** | **Python Basics and Programming Fundamentals** | 
 |           | Lecture 2. Control Structures and Visualization | 
