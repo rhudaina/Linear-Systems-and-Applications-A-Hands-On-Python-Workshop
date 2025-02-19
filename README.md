@@ -18,5 +18,5 @@
 
 **Survey Form - CSRC Skill Sprint Workshop:** https://forms.gle/Tope6i5P1AC5Gfuw7
 
-[^1]: Event Website: https://csrc.science.upd.edu.ph/index.php/2024/04/12/linear-systems-and-applications-a-hands-on-python-workshop/
+[^1]: Event Website: https://science.upd.edu.ph/linear-systems-and-applications-a-hands-on-python-workshop/
 
